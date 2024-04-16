@@ -52,8 +52,8 @@ main{
   padding-bottom: 10px;
   padding-left: 15px;
   padding-right: 15px;
-  text-align: center; /* 修正: セミコロンの追加 */
-  margin: 10px; /* 修正: ブロック間の余白を追加 */
+  text-align: center; 
+  margin: 20px 0px 20px 0px; /* 修正: ブロック間の余白を追加 */
   }
 
 h2{
